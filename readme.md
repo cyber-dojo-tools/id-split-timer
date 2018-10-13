@@ -74,7 +74,7 @@ read a file from a directory, write a file to a directory.
 Finally, show the average times for each operation, together with the average
 for all operations.
 
-# parameters
+# Parameters
 ## --split=[1,1,2,1]
 Time just a single given split.
 
